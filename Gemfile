@@ -65,3 +65,4 @@ end
 
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
