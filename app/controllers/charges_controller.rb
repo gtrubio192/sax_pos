@@ -1,4 +1,6 @@
 class ChargesController < ApplicationController
+
+before_action :authenticate_parent!
 def new
 end
 
